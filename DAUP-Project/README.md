@@ -24,7 +24,7 @@
 ## Analysis 3
 ###### This analysis gives the average number of price for the vehicles based on the fueltype of the vehicle and also based on the type of the vehicle. This also gives information about the average power of the vehicle based of the fueltype of the vehicle and also on the type of the vehicle.
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis3/Plots/vehicletype-fueltype-price.png "Logo Title Text 1")
-![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis2/Plots/vehicletype-gearbox-price.png "Logo Title Text 1")
+![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis3/Plots/vehicletype-fueltype-power.png "Logo Title Text 1")
 
 
 
