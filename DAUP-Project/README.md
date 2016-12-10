@@ -15,5 +15,7 @@
 ###### Folder for shell scripts which automate the creation of data structure and also subsets the dataset as said above
 ## Analysis 1
 ###### This gives the distribution for the prices of the vehicles which varies over vehicle type. This plot is achieved after cleaning a lot data without which the boxplot was barely visible due to a lot of outliers.
+#### Histogram Indicating a lot outliers and inconsistent data as car registration year cannot be greater than 2016 and less than 1890 (assuming the first car ever made was in 1885)
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/DataPreparation/Plots/vehicle-distribution.png "Logo Title Text 1")
+#### Boxplot after cleaning the data
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis1/Plots/price-vehicleType-boxplot.png "Logo Title Text 1")
