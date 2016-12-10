@@ -27,7 +27,7 @@
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis3/Plots/vehicletype-fueltype-power.png "Logo Title Text 1")
 ## Analysis 4
 ###### This analysis gives you the average price of the brand of vehicles and their types which are likely to be found in the dataset.
-![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis3/Plots/vehicletype-fueltype-price.png "Logo Title Text 1")
+![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis4/Plots/heatmap-price-brand-vehicleType.png "Logo Title Text 1")
 
 
 
