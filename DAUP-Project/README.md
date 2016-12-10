@@ -7,4 +7,9 @@
 ##### Eg: Brands like Audi, Bmw, Land Rover etc and Vehicle Types as Limosine, Bus, SUV, Coupe etc
 
 ## More Info
-##### There are 9 Folders under the main folder
+#### There are 9 Folders under the main folder
+###### 5 folders for Analysis1 - Analysis5
+###### DataPreparation folder
+###### Folder for RawData
+###### Folder for Cleaned Data which consists of the entire cleaned dataset named as cleaned_autos.csv and another subfolder consisting of the subsets made as per brands and vehicle types.
+###### Folder for shell scripts which automate the creation of data structure and also subsets the dataset as said above
