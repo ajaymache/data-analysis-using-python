@@ -11,5 +11,8 @@
 ###### 5 folders for Analysis1 - Analysis5
 ###### DataPreparation folder
 ###### Folder for RawData
-###### Folder for Cleaned Data which consists of the entire cleaned dataset named as cleaned_autos.csv and another subfolder consisting of the subsets made as per brands and vehicle types.
+###### Folder for Cleaned Data which consists of the entire cleaned dataset named as cleaned_autos.csv and another subfolder consisting of the subsets made as per brands and vehicle types
 ###### Folder for shell scripts which automate the creation of data structure and also subsets the dataset as said above
+## Analysis 1
+###### 
+![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/edit/master/DAUP-Project/Analysis1/Plots/price-vehicleType-boxplot.png "Logo Title Text 1")
