@@ -21,3 +21,14 @@
 ###### This analysis gives the number of cars which are available for sale in the entire dataset based on a particular brand. This analysis also gives information about average price of the vehicles for sale based of the type of the vehicle as well as based on the gearbox of the vehicle. The plot is shown below for simplicity.
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis2/Plots/brand-vehicleCount.png "Logo Title Text 1")
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis2/Plots/vehicletype-gearbox-price.png "Logo Title Text 1")
+## Analysis 3
+###### This analysis gives the average number of price for the vehicles based on the fueltype of the vehicle and also based on the type of the vehicle. This also gives information about the average power of the vehicle based of the fueltype of the vehicle and also on the type of the vehicle.
+![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis2/Plots/brand-vehicleCount.png "Logo Title Text 1")
+![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis2/Plots/vehicletype-gearbox-price.png "Logo Title Text 1")
+
+
+
+
+
+
+
