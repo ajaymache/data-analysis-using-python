@@ -5,6 +5,9 @@
 ##### Sample Dataset
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/DataPreparation/Plots/Screen%20Shot%202016-12-10%20at%2012.04.52%20PM.png "Logo Title Text 1")
 ## More Info
-#### The main folder contains 9 folders
-###### folders from Analysis1 - Analysis5 contain the iPython Notebook along with the Plots for that analysis
-###### folder for shell scripts which automate the entire for creating files structures and splitting the data as mentioned above
+#### The main folder contains 9 folders.
+###### Folders from Analysis1 - Analysis5 contain the iPython Notebook along with the Plots for that analysis.
+###### Folder for shell scripts which automate the entire for creating files structures and splitting the data as mentioned above.
+###### Datapreparation folder contains the Datapreparation iPython Notebook for cleaning of data.
+###### CleanData folder contains the clean dataset and subsets of data as per the file structure.
+###### RawData folder which contains the raw dataset.
