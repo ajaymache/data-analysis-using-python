@@ -15,4 +15,4 @@
 ###### Folder for shell scripts which automate the creation of data structure and also subsets the dataset as said above
 ## Analysis 1
 ###### 
-![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/DAUP-Project/Analysis1/Plots/price-vehicleType-boxplot.png "Logo Title Text 1")
+![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis1/Plots/price-vehicleType-boxplot.png "Logo Title Text 1")
