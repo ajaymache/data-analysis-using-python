@@ -1,0 +1,7 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,NoOfDaysOnline,NoOfHrsOnline,yearsOld,monthsOld
+2016-03-12 16:51:15,Subaru_Impreza_2009,privat,Offer,6500,control,andere,2009,manuell,0,impreza,150000,Oct,Gasoline,subaru,No,2016-03-12 00:00:00,58840,2016-03-19 19:45:47,2016,2016,March,March,7,19,7,2
+2016-03-08 11:56:58,Subaru_Impreza_4x4_11.2017_TÜV,privat,Offer,999,control,andere,1996,manuell,116,impreza,150000,May,Gasoline,subaru,Other,2016-03-08 00:00:00,57482,2016-03-11 12:45:30,2016,2016,March,March,3,12,20,7
+2016-03-31 15:49:49,Subaru_Liberty_SDX_E12_2.Hand,privat,Offer,2500,control,andere,1997,manuell,55,andere,150000,Nov,Other,subaru,No,2016-03-31 00:00:00,59348,2016-03-31 15:49:49,2016,2016,March,March,0,15,19,1
+2016-03-30 13:46:41,Subaru_Justy__ALLRAD_!!,privat,Offer,700,test,andere,1993,automatik,75,justy,20000,Apr,Gasoline,subaru,No,2016-03-30 00:00:00,28876,2016-04-07 04:17:27,2016,2016,March,March,8,4,23,8
+2016-03-22 19:55:00,Suche_Auto_auf_Ratenzahlung,privat,Offer,1,test,andere,1980,Unspecified,0,Other,5000,Jan,,subaru,Other,2016-03-22 00:00:00,87435,2016-04-06 13:16:23,2016,2016,March,March,15,13,36,11
+2016-03-13 10:06:22,Subaru_Brat_4x4,privat,Offer,5000,test,andere,1987,manuell,74,andere,150000,Jan,Other,subaru,No,2016-03-13 00:00:00,56410,2016-04-05 18:45:02,2016,2016,March,March,23,18,29,11

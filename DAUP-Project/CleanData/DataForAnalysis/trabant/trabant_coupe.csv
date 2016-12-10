@@ -1,0 +1,5 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,NoOfDaysOnline,NoOfHrsOnline,yearsOld,monthsOld
+2016-04-02 11:38:52,Trabant_P_601_A___Kuebel,privat,Offer,6200,test,coupe,1982,manuell,26,601,80000,Jul,Gasoline,trabant,No,2016-04-02 00:00:00,2627,2016-04-06 09:16:17,2016,2016,April,April,4,9,34,5
+2016-03-22 20:47:22,Smart_fortwo_TOP_GEPFLEGT,privat,Offer,3600,control,coupe,2008,Unspecified,60,Other,80000,Nov,Other,trabant,No,2016-03-22 00:00:00,99885,2016-04-02 15:47:10,2016,2016,March,March,11,15,8,1
+2016-03-30 19:36:17,Verkaufe_ein_Trabi_Getriebe_Kellerfund,privat,Offer,0,test,coupe,1991,manuell,0,Other,5000,Jan,Other,trabant,Other,2016-03-30 00:00:00,33609,2016-04-07 10:46:53,2016,2016,March,March,8,10,25,11
+2016-03-07 19:58:44,Trabant_P70_Coupe_Oldtimer_IFA_DDR,privat,Offer,3300,control,coupe,1957,manuell,40,andere,100000,Nov,Gasoline,trabant,No,2016-03-07 00:00:00,10317,2016-03-08 06:45:48,2016,2016,March,March,1,6,59,1

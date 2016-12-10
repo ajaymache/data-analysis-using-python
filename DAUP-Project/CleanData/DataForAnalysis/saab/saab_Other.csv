@@ -1,0 +1,9 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,NoOfDaysOnline,NoOfHrsOnline,yearsOld,monthsOld
+2016-03-07 17:42:18,Saab_Turbo_185_ps,privat,Offer,800,test,Other,2000,manuell,0,900,150000,Jan,Gasoline,saab,Other,2016-03-07 00:00:00,22525,2016-03-12 11:46:45,2016,2016,March,March,5,11,16,11
+2016-03-22 18:52:53,Saab_9_5_Vollausstattung,privat,Offer,600,control,Other,2000,manuell,150,andere,150000,Nov,Gasoline,saab,Yes,2016-03-22 00:00:00,66822,2016-03-22 19:43:36,2016,2016,March,March,0,19,16,1
+2016-04-02 11:51:11,Saab_900_Coupé,privat,Offer,600,test,Other,1995,Unspecified,0,900,150000,Feb,Other,saab,Other,2016-04-02 00:00:00,54309,2016-04-04 09:15:35,2016,2016,April,April,2,9,21,10
+2016-03-25 11:56:33,Saab_900_Coupé,privat,Offer,1499,test,Other,1990,manuell,115,Other,150000,Mar,Other,saab,Other,2016-03-25 00:00:00,4109,2016-04-02 14:17:47,2016,2016,March,March,8,14,26,9
+2016-03-27 15:42:31,Gepflegtes_Cabrio_sommerfahrzeug_Saab_9_3_2_0turbo_cabriolet,privat,Offer,2222,control,Other,2000,manuell,150,andere,150000,Jan,Gasoline,saab,Other,2016-03-27 00:00:00,79114,2016-04-01 15:17:32,2016,2016,March,March,5,15,16,11
+2016-03-20 19:57:30,Saab_900_mit_TÜV,privat,Offer,689,test,Other,2016,Unspecified,0,900,150000,Mar,Gasoline,saab,No,2016-03-20 00:00:00,28816,2016-03-27 10:16:44,2016,2016,March,March,7,10,0,9
+2016-03-07 22:53:38,Saab_900_mit_Tuev_voll_fahr_bereit,privat,Offer,777,test,Other,2016,manuell,130,900,150000,Mar,Gasoline,saab,No,2016-03-07 00:00:00,28816,2016-03-19 20:49:29,2016,2016,March,March,12,20,0,9
+2016-04-03 14:50:57,Saab_9.5_Kombi_Schwarz__Teilleder,privat,Offer,2300,test,Other,2016,manuell,177,andere,150000,Nov,Diesel,saab,No,2016-04-03 00:00:00,51645,2016-04-05 13:47:45,2016,2016,April,April,2,13,0,1

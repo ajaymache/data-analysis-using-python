@@ -1,0 +1,4 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,NoOfDaysOnline,NoOfHrsOnline,yearsOld,monthsOld
+2016-03-28 18:49:21,2x__Porsche_944,privat,Offer,4500,control,limousine,1985,manuell,163,Other,30000,Sep,Gasoline,porsche,Yes,2016-03-28 00:00:00,78250,2016-04-07 01:15:53,2016,2016,March,March,10,1,31,3
+2016-03-22 12:47:27,opel_vectra_tuev_2017_evt_tausch_moeglich,privat,Offer,700,control,limousine,1998,automatik,115,Other,150000,Jan,Gasoline,porsche,Other,2016-03-22 00:00:00,34516,2016-03-26 13:45:35,2016,2016,March,March,4,13,18,11
+2016-03-05 18:57:31,Porsche_924,privat,Offer,3500,test,limousine,1983,manuell,125,andere,150000,Jan,Gasoline,porsche,Other,2016-02-21 00:00:00,84106,2016-04-07 00:46:16,2016,2016,February,March,46,0,33,11

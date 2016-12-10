@@ -1,0 +1,5 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,NoOfDaysOnline,NoOfHrsOnline,yearsOld,monthsOld
+2016-04-02 12:54:34,Volvo_340_DL_Oldtimer___TOP_Zustand___TÜV_2017___selten,privat,Offer,2350,test,kleinwagen,1985,automatik,70,andere,125000,Jun,Gasoline,volvo,No,2016-04-02 00:00:00,59597,2016-04-06 11:15:22,2016,2016,April,April,4,11,31,6
+2016-03-31 15:51:35,Volvo_Volvo_DL_66,privat,Offer,1350,control,kleinwagen,1979,automatik,45,andere,60000,Mar,Gasoline,volvo,Yes,2016-03-31 00:00:00,33102,2016-04-06 09:44:31,2016,2016,March,March,6,9,37,9
+2016-03-16 20:54:04,Volvo_480_Turbo,privat,Offer,1200,control,kleinwagen,1990,manuell,120,andere,150000,May,Gasoline,volvo,No,2016-03-16 00:00:00,84144,2016-03-19 20:16:00,2016,2016,March,March,3,20,26,7
+2016-03-27 11:49:06,Volvo_Andere,privat,Offer,1000,test,kleinwagen,1980,automatik,0,andere,100000,Mar,Gasoline,volvo,Yes,2016-03-27 00:00:00,25474,2016-04-07 07:16:05,2016,2016,March,March,11,7,36,9

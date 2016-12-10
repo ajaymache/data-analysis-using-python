@@ -1,0 +1,5 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,NoOfDaysOnline,NoOfHrsOnline,yearsOld,monthsOld
+2016-03-12 00:50:48,GELÄNDEWAGEN_5_3liter_V8_SAAB,privat,Offer,12000,test,suv,2009,automatik,250,andere,125000,May,Gasoline,saab,No,2016-03-11 00:00:00,26506,2016-03-20 01:44:16,2016,2016,March,March,9,1,7,7
+2016-03-16 23:51:58,Saab_9_7X,privat,Offer,9999,test,suv,2006,automatik,299,andere,150000,Mar,Gasoline,saab,No,2016-03-16 00:00:00,21147,2016-03-17 07:42:17,2016,2016,March,March,1,7,10,9
+2016-03-26 18:39:53,SAAB_97_X_AERO_Corvette_V8_6_0L_Motor,privat,Offer,16999,test,suv,2009,automatik,390,andere,150000,Aug,Gasoline,saab,No,2016-03-26 00:00:00,24941,2016-04-06 07:44:52,2016,2016,March,March,11,7,7,4
+2016-03-21 14:45:48,SAAB_9_7X_5.3_V8_Allrad_LPG_mit_90l_Tank_2Hd_TÜV_06_2017,privat,Offer,6999,control,suv,2006,automatik,300,andere,150000,Jun,Lpg,saab,No,2016-03-21 00:00:00,23866,2016-04-06 11:17:33,2016,2016,March,March,16,11,10,6

@@ -1,0 +1,4 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,NoOfDaysOnline,NoOfHrsOnline,yearsOld,monthsOld
+2016-03-15 08:54:24,opel_corza,privat,Offer,350,test,andere,1995,Unspecified,0,Other,150000,Apr,Other,saab,Other,2016-03-15 00:00:00,48268,2016-04-05 16:21:13,2016,2016,March,March,21,16,21,8
+2016-03-17 21:38:20,Saab_900_Turbo_Coupé_Tausch_oder_Inz._Moeglich,privat,Offer,3350,test,andere,1991,Unspecified,145,900,150000,Jan,Gasoline,saab,Other,2016-03-17 00:00:00,70197,2016-04-07 11:15:51,2016,2016,March,March,21,11,25,11
+2016-03-29 19:36:59,Saab_9_3__2_2_DTI__Fliessheck__5Tuerig_Fahrtuechtig_ohne_TÜV,privat,Offer,599,control,andere,1998,manuell,115,andere,150000,Apr,Diesel,saab,Other,2016-03-29 00:00:00,48346,2016-04-06 05:17:23,2016,2016,March,March,8,5,18,8

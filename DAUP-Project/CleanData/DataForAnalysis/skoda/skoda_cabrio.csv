@@ -1,0 +1,5 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,NoOfDaysOnline,NoOfHrsOnline,yearsOld,monthsOld
+2016-03-10 10:47:22,SKODA_FABIA_1.4_L_75PS_TÜV_2_2018_MIT_ANHENGER_KUPLUNG!,privat,Offer,1900,test,cabrio,2003,manuell,75,fabia,150000,Oct,Gasoline,skoda,Other,2016-03-10 00:00:00,50825,2016-03-11 10:18:14,2016,2016,March,March,1,10,13,2
+2016-03-22 14:53:25,Skoda_Felicia,privat,Offer,19500,control,cabrio,1961,manuell,50,andere,100000,Jan,Gasoline,skoda,No,2016-03-22 00:00:00,7407,2016-04-06 04:16:56,2016,2016,March,March,15,4,55,11
+2016-03-17 09:37:58,Skoda_Felicia_Roadster_Cabrio,privat,Offer,7490,test,cabrio,1960,manuell,45,andere,50000,Oct,Gasoline,skoda,No,2016-03-17 00:00:00,1744,2016-03-17 10:42:28,2016,2016,March,March,0,10,56,2
+2016-03-06 20:49:14,Skoda_fabia_1.4_mpi_wenig_km_in_Guten_zustand,privat,Offer,2000,control,cabrio,2001,manuell,60,fabia,100000,Oct,Gasoline,skoda,No,2016-03-06 00:00:00,4159,2016-03-24 10:47:46,2016,2016,March,March,18,10,15,2

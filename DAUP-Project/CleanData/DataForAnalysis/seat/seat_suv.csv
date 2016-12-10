@@ -1,0 +1,5 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,NoOfDaysOnline,NoOfHrsOnline,yearsOld,monthsOld
+2016-04-01 18:53:45,Seat_Altea_2_0TDI_XENON_NAVI,privat,Offer,9799,control,suv,2012,manuell,140,altea,150000,Apr,Diesel,seat,No,2016-04-01 00:00:00,54298,2016-04-05 14:47:12,2016,2016,April,April,4,14,4,8
+2016-03-23 20:48:19,Seat_altea_freetrack,privat,Offer,8050,test,suv,2008,manuell,200,Other,125000,Apr,Gasoline,seat,No,2016-03-23 00:00:00,85088,2016-04-06 02:16:36,2016,2016,March,March,14,2,8,8
+2016-03-15 07:59:33,Seat_Altea_Freetrack_/_Alltrack_mit_Seat_Garantie,privat,Offer,15999,test,suv,2011,manuell,170,altea,40000,Nov,Diesel,seat,No,2016-03-15 00:00:00,23923,2016-04-07 11:16:01,2016,2016,March,March,23,11,5,1
+2016-03-15 10:41:11,Verkaufe_Seat_ibiza,privat,Offer,999,control,suv,1997,manuell,60,ibiza,90000,Jan,Gasoline,seat,No,2016-03-15 00:00:00,63075,2016-03-18 02:46:05,2016,2016,March,March,3,2,19,11

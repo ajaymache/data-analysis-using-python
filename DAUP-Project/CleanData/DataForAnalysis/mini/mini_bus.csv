@@ -1,0 +1,3 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,NoOfDaysOnline,NoOfHrsOnline,yearsOld,monthsOld
+2016-03-29 12:06:25,Mini_Cooper_1.6,privat,Offer,3000,control,bus,2003,manuell,116,cooper,125000,Mar,Gasoline,mini,Other,2016-03-29 00:00:00,35745,2016-04-07 11:46:02,2016,2016,March,March,9,11,13,9
+2016-04-03 17:52:01,MINI_Andere,privat,Offer,2350,test,bus,2003,manuell,102,andere,150000,Feb,Diesel,mini,No,2016-04-03 00:00:00,45481,2016-04-05 18:17:32,2016,2016,April,April,2,18,13,10

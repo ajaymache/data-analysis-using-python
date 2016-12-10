@@ -1,0 +1,3 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,NoOfDaysOnline,NoOfHrsOnline,yearsOld,monthsOld
+2016-03-30 14:58:48,Schnuckelchen!_ATOS_mit_Faltdach,privat,Offer,950,control,cabrio,1999,manuell,54,andere,150000,Apr,Gasoline,hyundai,Yes,2016-03-30 00:00:00,54426,2016-04-07 06:15:46,2016,2016,March,March,8,6,17,8
+2016-03-10 14:53:32,Hyndai_axccent,privat,Offer,150,test,cabrio,2000,manuell,0,andere,150000,Jan,Other,hyundai,Other,2016-03-10 00:00:00,45968,2016-03-10 15:43:19,2016,2016,March,March,0,15,16,11

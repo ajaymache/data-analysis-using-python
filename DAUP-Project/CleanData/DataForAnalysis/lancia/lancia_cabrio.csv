@@ -1,0 +1,10 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,NoOfDaysOnline,NoOfHrsOnline,yearsOld,monthsOld
+2016-03-15 00:37:58,Lancia_Beta_Spider__2000,privat,Offer,9900,test,cabrio,1979,manuell,120,andere,150000,Jul,Gasoline,lancia,No,2016-03-14 00:00:00,81739,2016-04-05 14:17:18,2016,2016,March,March,22,14,37,5
+2016-03-28 19:53:15,Lancia_Beta,privat,Offer,19500,control,cabrio,1980,manuell,116,andere,20000,Jan,Gasoline,lancia,No,2016-03-28 00:00:00,69168,2016-04-07 02:17:49,2016,2016,March,March,10,2,36,11
+2016-03-14 23:55:55,Lancia_Beta_Spider__2000,privat,Offer,9900,control,cabrio,1979,manuell,120,andere,150000,Jul,Gasoline,lancia,No,2016-03-14 00:00:00,81739,2016-04-06 22:17:34,2016,2016,March,March,23,22,37,5
+2016-03-17 13:49:25,Lancia_Flavia_Cabrio_2_4_auto,privat,Offer,17900,control,cabrio,2013,automatik,170,andere,40000,Mar,Other,lancia,No,2016-03-17 00:00:00,66706,2016-03-17 13:49:25,2016,2016,March,March,0,13,3,9
+2016-03-15 12:37:55,Lancia_Flavia_Cabrio_2_4_auto,privat,Offer,18400,control,cabrio,2013,automatik,170,andere,40000,Mar,Gasoline,lancia,No,2016-03-15 00:00:00,66706,2016-03-17 06:17:01,2016,2016,March,March,2,6,3,9
+2016-03-09 11:38:13,Lancia_y_mit_Faltdach,privat,Offer,150,test,cabrio,1999,manuell,50,ypsilon,125000,Jan,Other,lancia,Other,2016-03-09 00:00:00,13581,2016-04-05 14:46:38,2016,2016,March,March,27,14,17,11
+2016-03-22 18:06:24,Lancia_beta,privat,Offer,15000,control,cabrio,1973,manuell,15,andere,5000,Jan,Gasoline,lancia,Other,2016-03-22 00:00:00,60437,2016-04-07 09:17:37,2016,2016,March,March,16,9,43,11
+2016-04-02 19:37:44,Lancia_Beta_Spider_Targa,privat,Offer,3900,control,cabrio,1980,manuell,116,andere,100000,Apr,Gasoline,lancia,Yes,2016-04-02 00:00:00,54518,2016-04-06 19:44:35,2016,2016,April,April,4,19,36,8
+2016-04-07 09:06:35,Lancia_Beta_Spider,privat,Offer,4500,control,cabrio,1982,manuell,120,andere,125000,Jan,Gasoline,lancia,Yes,2016-04-07 00:00:00,57518,2016-04-07 09:25:34,2016,2016,April,April,0,9,34,11

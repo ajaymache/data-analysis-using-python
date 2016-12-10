@@ -1,0 +1,9 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,NoOfDaysOnline,NoOfHrsOnline,yearsOld,monthsOld
+2016-04-03 13:51:23,Daewoo_Lanos***,privat,Offer,299,control,coupe,2000,manuell,0,lanos,150000,Aug,Gasoline,daewoo,Yes,2016-04-03 00:00:00,77933,2016-04-05 12:46:32,2016,2016,April,April,2,12,16,4
+2016-03-23 19:37:19,DAEWOO_NEXIA_rot_ohne_TÜV,privat,Offer,200,control,coupe,1996,manuell,90,andere,150000,Apr,Gasoline,daewoo,Other,2016-03-23 00:00:00,59379,2016-03-23 19:37:19,2016,2016,March,March,0,19,20,8
+2016-03-14 18:49:00,Schoener_gepflegter_mit_wenig_Kilometern,privat,Offer,200,test,coupe,1998,Unspecified,0,lanos,125000,Jan,Gasoline,daewoo,Yes,2016-03-14 00:00:00,71263,2016-03-20 08:46:16,2016,2016,March,March,6,8,18,11
+2016-04-04 11:48:10,Schlachtfest_oder_Wiederaufbau!,privat,Offer,180,control,coupe,2000,manuell,0,lanos,150000,Oct,Gasoline,daewoo,Yes,2016-04-04 00:00:00,6347,2016-04-06 12:46:50,2016,2016,April,April,2,12,16,2
+2016-03-23 23:45:59,Postkasten_Daewoo_Nexia,privat,Offer,1400,control,coupe,1997,manuell,75,andere,100000,Feb,Gasoline,daewoo,No,2016-03-23 00:00:00,30659,2016-04-06 05:45:42,2016,2016,March,March,14,5,19,10
+2016-03-28 11:36:18,Daewoo_Lanos_Klatt_zu_verkaufen,privat,Offer,300,control,coupe,2000,manuell,75,lanos,150000,Sep,Gasoline,daewoo,Yes,2016-03-28 00:00:00,28816,2016-03-28 11:36:18,2016,2016,March,March,0,11,16,3
+2016-03-20 16:56:01,Daewoo_rot_ohne_TÜV,privat,Offer,200,test,coupe,1996,manuell,90,andere,150000,Apr,Gasoline,daewoo,No,2016-03-20 00:00:00,59379,2016-03-23 01:17:23,2016,2016,March,March,3,1,20,8
+2016-03-27 20:48:22,BMW_E36_320i_Aut.,privat,Offer,650,control,coupe,1994,automatik,150,Other,150000,Mar,Gasoline,daewoo,Yes,2016-03-27 00:00:00,92436,2016-04-05 19:45:25,2016,2016,March,March,9,19,22,9

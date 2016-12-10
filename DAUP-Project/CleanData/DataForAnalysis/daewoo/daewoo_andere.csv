@@ -1,0 +1,6 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,NoOfDaysOnline,NoOfHrsOnline,yearsOld,monthsOld
+2016-03-16 05:36:40,Deawoo_Rezzo_baujahr_3_2004,privat,Offer,1000,control,andere,2004,automatik,155,andere,90000,Mar,Lpg,daewoo,Yes,2016-03-16 00:00:00,45663,2016-04-06 01:44:32,2016,2016,March,March,21,1,12,9
+2016-03-11 16:58:53,Daewoo_Rezzo_2.0l_LPG,privat,Offer,680,test,andere,2003,manuell,121,andere,150000,May,Lpg,daewoo,Other,2016-03-11 00:00:00,41749,2016-03-12 06:46:42,2016,2016,March,March,1,6,13,7
+2016-03-08 22:56:43,Daewoo_Nubira_PKW_TÜV/neu!,privat,Offer,1590,test,andere,2004,manuell,1598,nubira,150000,Oct,Gasoline,daewoo,Other,2016-03-08 00:00:00,72762,2016-04-04 07:18:01,2016,2016,March,March,27,7,12,2
+2016-03-27 15:43:06,Daewoo_Matiz_1_0l,privat,Offer,999,control,andere,2003,manuell,60,matiz,80000,Sep,Gasoline,daewoo,Other,2016-03-27 00:00:00,1762,2016-04-07 12:44:26,2016,2016,March,March,11,12,13,3
+2016-03-28 12:36:16,Halbe_Auto_Anhaenger,privat,Offer,700,test,andere,2014,Unspecified,0,nubira,5000,Mar,Other,daewoo,No,2016-03-28 00:00:00,52351,2016-04-06 15:15:32,2016,2016,March,March,9,15,2,9

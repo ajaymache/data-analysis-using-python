@@ -1,0 +1,9 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,NoOfDaysOnline,NoOfHrsOnline,yearsOld,monthsOld
+2016-03-12 16:49:09,Rover_200_Tuev___Mai/2017_!,privat,Offer,949,control,coupe,1998,manuell,75,andere,100000,Oct,Gasoline,rover,No,2016-03-12 00:00:00,99089,2016-03-12 16:49:09,2016,2016,March,March,0,16,18,2
+2016-03-19 21:48:15,Rover_214_Si_Silverstone,privat,Offer,559,control,coupe,1997,manuell,103,andere,150000,Apr,Gasoline,rover,No,2016-03-19 00:00:00,53859,2016-03-22 04:45:52,2016,2016,March,March,3,4,19,8
+2016-03-15 16:57:13,Rover_827_Coupe_SC,privat,Offer,900,control,coupe,1994,automatik,169,andere,150000,Jun,Gasoline,rover,No,2016-03-15 00:00:00,21481,2016-03-31 18:45:32,2016,2016,March,March,16,18,22,6
+2016-04-03 19:52:44,Rover_1_4i,privat,Offer,0,test,coupe,1998,manuell,0,andere,150000,Jan,Gasoline,rover,Yes,2016-04-03 00:00:00,79761,2016-04-05 20:45:20,2016,2016,April,April,2,20,18,11
+2016-03-11 17:41:09,guter_zustag_rover_200,privat,Offer,400,control,coupe,1999,manuell,75,andere,150000,Jul,Gasoline,rover,No,2016-03-11 00:00:00,81243,2016-03-29 09:17:24,2016,2016,March,March,18,9,17,5
+2016-03-17 15:51:45,Rover_25_Bj_2001_tausche_auch_gegen_anderes_Auto,privat,Offer,900,test,coupe,2001,manuell,62,andere,150000,May,Gasoline,rover,Other,2016-03-17 00:00:00,45138,2016-04-06 23:47:06,2016,2016,March,March,20,23,15,7
+2016-03-14 12:39:33,Rover_827_SC_Coupe,privat,Offer,1299,test,coupe,1993,automatik,168,andere,150000,May,Gasoline,rover,Yes,2016-03-14 00:00:00,32756,2016-04-05 11:50:53,2016,2016,March,March,22,11,23,7
+2016-03-17 15:36:59,Rover_25_Bj_2001,privat,Offer,900,test,coupe,2001,manuell,62,andere,150000,May,Gasoline,rover,Other,2016-03-17 00:00:00,45138,2016-04-06 22:44:40,2016,2016,March,March,20,22,15,7

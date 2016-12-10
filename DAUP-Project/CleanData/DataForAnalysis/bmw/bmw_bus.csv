@@ -1,0 +1,8 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,NoOfDaysOnline,NoOfHrsOnline,yearsOld,monthsOld
+2016-03-18 23:37:16,BMW_320d_touring_Edition_Sport,privat,Offer,7600,test,bus,2004,manuell,150,3er,150000,Jul,Diesel,bmw,No,2016-03-18 00:00:00,44534,2016-04-06 03:45:35,2016,2016,March,March,19,3,12,5
+2016-04-02 19:52:56,Suche_BMW_X5__7_Sitze_Diesel_Schwarz,privat,Offer,0,control,bus,2009,automatik,258,x_reihe,150000,Aug,Diesel,bmw,No,2016-04-02 00:00:00,94315,2016-04-06 20:17:21,2016,2016,April,April,4,20,7,4
+2016-03-11 19:59:33,X3_3.0D_4X4_NAVI,privat,Offer,4900,test,bus,2004,Unspecified,0,x_reihe,150000,Sep,Diesel,bmw,Other,2016-03-11 00:00:00,51065,2016-03-11 19:59:33,2016,2016,March,March,0,19,12,3
+2016-03-26 19:57:44,Verkaufen_mein_bmw_e36_320_i_touring,privat,Offer,300,control,bus,1995,manuell,150,3er,150000,Jan,Gasoline,bmw,Other,2016-03-26 00:00:00,54329,2016-04-02 12:16:41,2016,2016,March,March,7,12,21,11
+2016-03-27 12:56:35,"BMW_X5_3.0_d_Black_Alpina_21_""",privat,Offer,7999,test,bus,2003,manuell,184,x_reihe,150000,Nov,Diesel,bmw,No,2016-03-27 00:00:00,49477,2016-04-07 08:44:27,2016,2016,March,March,11,8,13,1
+2016-03-20 13:45:07,Bmw_530d_M_mit_tuev_2017,privat,Offer,2650,test,bus,2002,manuell,193,5er,150000,Jun,Diesel,bmw,No,2016-03-20 00:00:00,71083,2016-03-20 13:45:07,2016,2016,March,March,0,13,14,6
+2016-03-19 23:54:29,X5_mega_hammer_preis_6300_euro_top,privat,Offer,4999,control,bus,2002,automatik,0,x_reihe,150000,Jan,Other,bmw,Other,2016-03-19 00:00:00,14774,2016-03-26 15:16:09,2016,2016,March,March,7,15,14,11
