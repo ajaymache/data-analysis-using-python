@@ -15,5 +15,7 @@
 ###### This analysis gives the distribution of prices of vehicles based on vehicles types. Output before the cleaning the data is shown below in order to highlight the importance of cleaning this dataset.
 #### Histogram and KDE before performing data cleaning. It is clearly visible that the dataset has many outliers and inconsistent data as year of registration cannot be more than 2016 and less than 1890.
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/DataPreparation/Plots/vehicle-distribution.png "Logo Title Text 1")
-#### Boxplot of prices of vehicles based on the type of vehicles after cleaning the dataset
+#### Boxplot of prices of vehicles based on the type of vehicles after cleaning the dataset. Based on the vehicle type how the prices vary is depictable from the boxplot. low, 25th, 50th(Median), 75th percentile, high can be estimated from this boxplot.
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis1/Plots/price-vehicleType-boxplot.png "Logo Title Text 1")
+## Analysis 2
+###### This analysis gives 
