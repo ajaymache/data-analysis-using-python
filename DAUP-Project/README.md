@@ -8,11 +8,12 @@
 
 ## More Info
 #### There are 9 Folders under the main folder
-###### 5 folders for Analysis1 - Analysis5
+###### 5 folders for Analysis1 - Analysis5 which contains the iPython Notebbok for the analysis and a Plots folder for the analysis carried out
 ###### DataPreparation folder
 ###### Folder for RawData
 ###### Folder for Cleaned Data which consists of the entire cleaned dataset named as cleaned_autos.csv and another subfolder consisting of the subsets made as per brands and vehicle types
 ###### Folder for shell scripts which automate the creation of data structure and also subsets the dataset as said above
 ## Analysis 1
-###### 
+###### This gives the distribution for the prices of the vehicles which varies over vehicle type. This plot is achieved after cleaning a lot data without which the boxplot was barely visible due to a lot of outliers.
+![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis1/Plots/price-vehicleType-boxplot.png "Logo Title Text 1")
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis1/Plots/price-vehicleType-boxplot.png "Logo Title Text 1")
