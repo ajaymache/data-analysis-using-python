@@ -16,7 +16,7 @@ dateCrawled | name | seller | offerType | price | abtest | vehicleType | yearOfR
 __*The main folder contains 9 folders*__.
 
   + Folders from Analysis1 - Analysis5 contain the **iPython Notebook**, **python scripts** along with the **Plots** for that analysis.
-  + Folder for **[shell scripts](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/ShellScripts)** which automate the creatinn of files structures and splitting the data as mentioned above.
+  + Folder for **[shell scripts](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/ShellScripts)** which automate the creation of files structures and splitting the data as mentioned above.
   + Datapreparation folder contains the **[Datapreparation iPython Script](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/DataPreparation/DataPreparation.py)** for cleaning of data.
   + CleanData folder contains the clean dataset and subsets of data as per the **[file structure](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/CleanData/DataForAnalysis)**.
   + RawData folder which contains the **[raw dataset](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/RawData)**.  <br/>
