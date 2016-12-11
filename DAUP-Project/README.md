@@ -40,11 +40,14 @@ This analysis gives the number of cars which are available for sale in the entir
 This analysis gives the average number of price for the vehicles based on the fueltype of the vehicle and also based on the type of the vehicle. This also gives information about the average power of the vehicle based of the fueltype of the vehicle and also on the type of the vehicle.
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis3/Plots/vehicletype-fueltype-price.png "Logo Title Text 1")
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis3/Plots/vehicletype-fueltype-power.png "Logo Title Text 1")
-## Analysis 4
-###### This analysis gives you the average price of the brand of vehicles and their types which are likely to be found in the dataset.
+### Analysis 4
+This analysis gives you the average price of the brand of vehicles and their types which are likely to be found in the dataset.
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis4/Plots/heatmap-price-brand-vehicleType.png "Logo Title Text 1")
-## Analysis 5
-###### 
+### Analysis 5
++ This analysis gives you the distribution of the total no of days a partiular vehicle has been online for sale before it was purchased. 
++ This is a dynamic analysis and can be applied to any vehicle by specifying the brand of choice as argument to the python script.
++ To run this file on your terminal type: __*Analysis5.py 'brand'*__
+where **'brand'** is the choice of brand vehicle you would like to see analysis about from the column **'brand'** in the dataset.
 
 
 
