@@ -13,7 +13,7 @@ dateCrawled | name | seller | offerType | price | abtest | vehicleType | yearOfR
 2016-03-14 12:52:21 | Jeep_Grand_Cherokee_"Overland" | privat | Angebot | 9800 | test | suv | 2004 | automatik | 163 | grand | 125000 | 8 | diesel | jeep | nan | 2016-03-14 00:00:00 | 0 | 90480 | 2016-04-05 12:47:46
 ***
 ### More Info
-#### The main folder contains 9 folders.
+__*The main folder contains 9 folders*__.
 ###### Folders from Analysis1 - Analysis5 contain the iPython Notebook along with the Plots for that analysis.
 ###### Folder for shell scripts which automate the entire for creating files structures and splitting the data as mentioned above.
 ###### Datapreparation folder contains the Datapreparation iPython Notebook for cleaning of data.
