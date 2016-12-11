@@ -15,7 +15,7 @@ dateCrawled | name | seller | offerType | price | abtest | vehicleType | yearOfR
 ### More Info
 __*The main folder contains 9 folders*__.
 
-  + Folders from Analysis1 - Analysis5 contain the iPython Notebook along with the Plots for that analysis.
+  + Folders from Analysis1 - Analysis5 contain the **iPython Notebook**, **python scripts** along with the **Plots** for that analysis.
   + Folder for **[shell scripts](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/ShellScripts)** which automate the entire for creating files structures and splitting the data as mentioned above.
   + Datapreparation folder contains the **[Datapreparation iPython Script](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/DataPreparation/DataPreparation.py)** for cleaning of data.
   + CleanData folder contains the clean dataset and subsets of data as per the **[file structure](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/CleanData/DataForAnalysis)**.
@@ -25,8 +25,8 @@ __*The main folder contains 9 folders*__.
 ### Analysis 1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Analysis1.py](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis1/Analysis1.py)&emsp;[Analysis1.ipynb](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis1/Analysis1.ipynb)&emsp;[Plots](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/Analysis1/Plots)
 + This analysis gives the distribution of prices of vehicles based on vehicles types.
 + Output before the cleaning the data is shown below in order to highlight the importance of cleaning this dataset.
-+ Histogram and KDE before performing data cleaning.
-+ It is clearly visible that the dataset has many outliers and inconsistent data as year of registration cannot be more than 2016 and less than 1890.
++ **Histogram** and **KDE** before performing data cleaning.
++ It is clearly visible that the dataset has **many outliers** and **inconsistent data** as year of registration **cannot be more than 2016 and less than 1890**.
 
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/DataPreparation/Plots/vehicle-distribution.png "Logo Title Text 1")
 
@@ -63,7 +63,7 @@ __*The main folder contains 9 folders*__.
 ### Analysis 5 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Analysis5.py](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis5/Analysis5.py)&emsp;[Analysis5.ipynb](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis5/Analysis5.ipynb)&emsp;[Plots](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/Analysis5/Plots)
 
 + This analysis gives you the distribution of the total no of days a partiular vehicle has been online for sale before it was purchased. 
-+ This is a dynamic analysis and can be applied to any vehicle by specifying the brand of choice as argument to the python script.
++ This is a **dynamic analysis** and can be applied to **any vehicle** by specifying the brand of choice as argument to the python script.
 + To run this file on your terminal type: __*Analysis5.py 'brand'*__  
 + where **'brand'** is the choice of brand vehicle you would like to see analysis about from the column **'brand'** in the dataset.
 
