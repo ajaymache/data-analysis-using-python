@@ -70,7 +70,7 @@ __*The main folder contains 9 folders*__.
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis5/Plots/vehicletype-NoOfDaysOnline.png "Logo Title Text 1")
 ***
 ### Conclusion
-*__Analysis 1*__
+__*Analysis 1*__
 
 + Many outliers with registration year greater than 2016 and less than 1890 which are removed to make the dataset ready for analyis.
 + Vehicles with registration year 1990-2016 are available maximum for sale. Year 2000 being the highest with 24313 vehicles.
