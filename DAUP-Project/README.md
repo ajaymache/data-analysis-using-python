@@ -1,4 +1,4 @@
-# Data Analysis for used car dataset
+# Data Analysis for Used Car Dataset
 ### DataSet Overview
   + The dataset is taken from **kaggle** and contains details of the **used cars in germany** which are on sale on **ebay**.
   + The dataset is not clean and hence a lot of data cleaning is carried out. For e.g. prices where too high which are      replaced by the median and outliers are removed accordingly. 
