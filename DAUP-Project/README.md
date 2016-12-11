@@ -72,13 +72,13 @@ __*The main folder contains 9 folders*__.
 ### Conclusion
 __*Analysis 1*__
 
-+ Many outliers with registration year greater than 2016 and less than 1890 which are removed to make the dataset ready for analyis.
++ Many **outliers** with *registration year greater than 2016 and less than 1890* which are removed to make the dataset ready for analyis.
 + Vehicles with registration year **1990-2016** are available **maximum** for sale. Year **2000** being the **highest** with **24313** vehicles.
 
 __*Analysis 2*__
 
 + Vehicles of type **SUV** and **Cabrio** are the **most expensive** with **greater than $5000** as compared to **Coupe**, **Bus** etc which are **moderately expensive** in the range of **$2650 to $5000** where as the **least expensive** being **Andere** and **Others** with price **less than $1800** on an *average*.
-+ Vehicles of brands **Volkswagen**, **Opel** and **BMW** are the **maximum for sale** in the decreasing order with Volkswagen being the maximum.
++ Vehicles of brands **Volkswagen**, **Opel** and **BMW** are the **maximum for sale** in the decreasing order with *Volkswagen being the maximum*.
 + As a general trend vehicles which are **automatic** are the **most expensive** as compared to manual and other unspecified gearbox type.
 
 __*Analysis 3*__
