@@ -16,7 +16,7 @@ dateCrawled | name | seller | offerType | price | abtest | vehicleType | yearOfR
 __*The main folder contains 9 folders*__.
 
   + Folders from Analysis1 - Analysis5 contain the iPython Notebook along with the Plots for that analysis.
-  + Folder for shell scripts which automate the entire for creating files structures and splitting the data as mentioned  above.
+  + Folder for shell scripts which automate the entire for creating files structures and splitting the data as mentioned above.
   + Datapreparation folder contains the Datapreparation iPython Notebook for cleaning of data.
   + CleanData folder contains the clean dataset and subsets of data as per the file structure.
   + RawData folder which contains the raw dataset.  <br/>
@@ -25,15 +25,7 @@ __*The main folder contains 9 folders*__.
 ### Analysis 1
 This analysis gives the distribution of prices of vehicles based on vehicles types. Output before the cleaning the data is shown below in order to highlight the importance of cleaning this dataset.
 Histogram and KDE before performing data cleaning. It is clearly visible that the dataset has many outliers and inconsistent data as year of registration cannot be more than 2016 and less than 1890.
-```html
-<button onclick="myFunction()">Try it</button>
 
-<script>
-function myFunction() {
-    alert("I am an alert box!");
-}
-</script>
-```
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/DataPreparation/Plots/vehicle-distribution.png "Logo Title Text 1")
 
 Boxplot of prices of vehicles based on the type of vehicles after cleaning the dataset. Based on the vehicle type how the prices vary is depictable from the boxplot. low, 25th, 50th(Median), 75th percentile, high can be estimated from this boxplot.
