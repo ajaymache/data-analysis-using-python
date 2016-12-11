@@ -1,5 +1,5 @@
 # Data Analysis for used car dataset
-## DataSet Overview
+### DataSet Overview
   + The dataset is taken from **kaggle** and contains details of the **used cars in germany** which are on sale on **ebay**.
   + The dataset is not clean and hence a lot of data cleaning is carried out. For e.g. prices where too high which are      replaced by the median and outliers are removed accordingly. 
   + Also vehicles whose registration year was **_greater than 2016_ and _less than 1890_** were removed from the dataset as this data is inconsistense and would yield incorrect results.
@@ -12,7 +12,7 @@ dateCrawled | name | seller | offerType | price | abtest | vehicleType | yearOfR
 2016-03-24 10:58:45 | A5_Sportback_2.7_Tdi | privat | Angebot | 18300 | test | coupe | 2011 | manuell | 190 | nan | 125000 | 5 | diesel | audi | ja | 2016-03-24 00:00:00 | 0 | 66954 | 2016-04-07 01:46:50
 2016-03-14 12:52:21 | Jeep_Grand_Cherokee_"Overland" | privat | Angebot | 9800 | test | suv | 2004 | automatik | 163 | grand | 125000 | 8 | diesel | jeep | nan | 2016-03-14 00:00:00 | 0 | 90480 | 2016-04-05 12:47:46
 ***
-## More Info
+### More Info
 #### The main folder contains 9 folders.
 ###### Folders from Analysis1 - Analysis5 contain the iPython Notebook along with the Plots for that analysis.
 ###### Folder for shell scripts which automate the entire for creating files structures and splitting the data as mentioned above.
