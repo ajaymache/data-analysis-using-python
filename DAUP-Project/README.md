@@ -6,6 +6,11 @@
   + The dataset is cleaned and stored in a **CleanData** folder which contains the entire cleaned dataset named as ** [cleaned_autos.csv](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/CleanData/CleanedDataSet)** and another folder named **[DataForAnalysis](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/CleanData/DataForAnalysis)** containing files structures containing subsets of the cleaned dataset based on brand of the vehicles and vehicle types.  <br/>
   
 ### Sample Dataset
+dateCrawled | name | seller | offerType | price | abtest | vehicleType | yearOfRegistration | gearbox | powerPS | model | kilometer | monthOfRegistration | fuelType | brand | notRepairedDamage | dateCreated | nrOfPictures | postalCode | lastSeen 
+--- | --- | ---
+Still | renders | nicely
+1 | 2 | 3
+
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/DataPreparation/Plots/Screen%20Shot%202016-12-10%20at%2012.04.52%20PM.png "Logo Title Text 1")
 ## More Info
 #### The main folder contains 9 folders.
