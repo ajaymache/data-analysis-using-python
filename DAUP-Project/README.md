@@ -22,7 +22,7 @@ __*The main folder contains 9 folders*__.
   + RawData folder which contains the raw dataset.  <br/>
  
 ***
-### Analysis1 <div style="padding-left:25em;">hi</div>
+### Analysis1<text style="padding-left:25em;">hi</text>
 + This analysis gives the distribution of prices of vehicles based on vehicles types.
 + Output before the cleaning the data is shown below in order to highlight the importance of cleaning this dataset.
 + Histogram and KDE before performing data cleaning.
