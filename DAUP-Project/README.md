@@ -1,4 +1,4 @@
-# Data Analysis for Used Car Dataset
+# Data Analysis Of Used Car Dataset
 ### DataSet Overview
   + The dataset is taken from **kaggle** and contains details of the **used cars in germany** which are on sale on **ebay**.
   + The dataset is not clean and hence a lot of data cleaning is carried out. For e.g. prices where too high which are      replaced by the median and outliers are removed accordingly. 
@@ -16,10 +16,10 @@ dateCrawled | name | seller | offerType | price | abtest | vehicleType | yearOfR
 __*The main folder contains 9 folders*__.
 
   + Folders from Analysis1 - Analysis5 contain the iPython Notebook along with the Plots for that analysis.
-  + Folder for shell scripts which automate the entire for creating files structures and splitting the data as mentioned above.
-  + Datapreparation folder contains the Datapreparation iPython Notebook for cleaning of data.
-  + CleanData folder contains the clean dataset and subsets of data as per the file structure.
-  + RawData folder which contains the raw dataset.  <br/>
+  + Folder for **[shell scripts](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/ShellScripts)** which automate the entire for creating files structures and splitting the data as mentioned above.
+  + Datapreparation folder contains the **[Datapreparation iPython Script](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/DataPreparation/DataPreparation.py)** for cleaning of data.
+  + CleanData folder contains the clean dataset and subsets of data as per the **[file structure](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/CleanData/DataForAnalysis)**.
+  + RawData folder which contains the **[raw dataset](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/RawData)**.  <br/>
  
 ***
 ### Analysis 1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Analysis1.py](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis1/Analysis1.py)&emsp;[Analysis1.ipynb](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis1/Analysis1.ipynb)&emsp;[Plots](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/Analysis1/Plots)
