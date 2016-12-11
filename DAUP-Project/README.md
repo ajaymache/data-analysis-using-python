@@ -50,7 +50,7 @@ This analysis gives you the average price of the brand of vehicles and their typ
 + This is a dynamic analysis and can be applied to any vehicle by specifying the brand of choice as argument to the python script.
 + To run this file on your terminal type: __*Analysis5.py 'brand'*__  
 + where **'brand'** is the choice of brand vehicle you would like to see analysis about from the column **'brand'** in the dataset.
-
+![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis5/Plots/vehicletype-NoOfDaysOnline.png "Logo Title Text 1")
 
 
 
