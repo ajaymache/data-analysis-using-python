@@ -44,7 +44,7 @@ __*The main folder contains 9 folders*__.
 
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis2/Plots/vehicletype-gearbox-price.png "Logo Title Text 1")
 ***
-### Analysis 3 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Analysis3.py](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis3/Analysis3.py)&emsp;[Analysis3.ipynb](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis3/Analysis3.ipynb)&emsp;[Plots](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/Analysis3/Plots)
+### Analysis 3 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Analysis3.py](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis3/Analysis3.py)&emsp;[Analysis3.ipynb](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis3/Analysis3.ipynb)&emsp;[Plots](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/Analysis3/Plots)
 
 + This analysis gives the average number of price for the vehicles based on the fueltype of the vehicle and also based on the type of the vehicle.
 
@@ -54,13 +54,13 @@ __*The main folder contains 9 folders*__.
 
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis3/Plots/power-vehicleType-fuelType.png "Logo Title Text 1")
 ***
-### Analysis 4 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Analysis4.py](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis4/Analysis4.py)&emsp;[Analysis4.ipynb](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis4/Analysis4.ipynb)&emsp;[Plots](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/Analysis4/Plots)
+### Analysis 4 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Analysis4.py](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis4/Analysis4.py)&emsp;[Analysis4.ipynb](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis4/Analysis4.ipynb)&emsp;[Plots](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/Analysis4/Plots)
 
 + This analysis gives you the average price of the brand of vehicles and their types which are likely to be found in the dataset.
 
 ![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis4/Plots/heatmap-price-brand-vehicleType.png "Logo Title Text 1")
 ***
-### Analysis 5 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Analysis5.py](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis5/Analysis5.py)&emsp;[Analysis5.ipynb](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis5/Analysis5.ipynb)&emsp;[Plots](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/Analysis5/Plots)
+### Analysis 5 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Analysis5.py](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis5/Analysis5.py)&emsp;[Analysis5.ipynb](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis5/Analysis5.ipynb)&emsp;[Plots](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/Analysis5/Plots)
 
 + This analysis gives you the distribution of the total no of days a partiular vehicle has been online for sale before it was purchased. 
 + This is a **dynamic analysis** and can be applied to **any vehicle** by specifying the brand of choice as argument to the python script.
