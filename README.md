@@ -34,40 +34,40 @@ __*The main folder contains 9 folders*__.
 
 ![alt text](Analysis1/Plots/price-vehicleType-boxplot.png "Logo Title Text 1")
 ***
-### Analysis 2 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Analysis2.py](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis2/Analysis2.py)&emsp;[Analysis2.ipynb](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis2/Analysis2.ipynb)&emsp;[Plots](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/Analysis2/Plots)
+### Analysis 2 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Analysis2.py](Analysis2/Analysis2.py)&emsp;[Analysis2.ipynb](Analysis2/Analysis2.ipynb)&emsp;[Plots](Analysis2/Plots)
 
 + This analysis gives the number of cars which are available for sale in the entire dataset based on a particular brand. 
 
-![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis2/Plots/brand-vehicleCount.png "Logo Title Text 1")
+![alt text](Analysis2/Plots/brand-vehicleCount.png "Logo Title Text 1")
 
 > Barplot of average price of the vehicles for sale based of the type of the vehicle as well as based on the gearbox of the vehicle.
 
-![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis2/Plots/vehicletype-gearbox-price.png "Logo Title Text 1")
+![alt text](Analysis2/Plots/vehicletype-gearbox-price.png "Logo Title Text 1")
 ***
-### Analysis 3 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Analysis3.py](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis3/Analysis3.py)&emsp;[Analysis3.ipynb](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis3/Analysis3.ipynb)&emsp;[Plots](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/Analysis3/Plots)
+### Analysis 3 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Analysis3.py](Analysis3/Analysis3.py)&emsp;[Analysis3.ipynb](Analysis3/Analysis3.ipynb)&emsp;[Plots](Analysis3/Plots)
 
 + This analysis gives the average number of price for the vehicles based on the fueltype of the vehicle and also based on the type of the vehicle.
 
-![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis3/Plots/fueltype-vehicleType-price.png "Logo Title Text 1")
+![alt text](Analysis3/Plots/fueltype-vehicleType-price.png "Logo Title Text 1")
 
 > Barplot of average power of the vehicle based of the fueltype of the vehicle and also on the type of the vehicle.
 
-![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis3/Plots/power-vehicleType-fuelType.png "Logo Title Text 1")
+![alt text](Analysis3/Plots/power-vehicleType-fuelType.png "Logo Title Text 1")
 ***
-### Analysis 4 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Analysis4.py](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis4/Analysis4.py)&emsp;[Analysis4.ipynb](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis4/Analysis4.ipynb)&emsp;[Plots](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/Analysis4/Plots)
+### Analysis 4 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Analysis4.py](Analysis4/Analysis4.py)&emsp;[Analysis4.ipynb](Analysis4/Analysis4.ipynb)&emsp;[Plots](Analysis4/Plots)
 
 + This analysis gives you the average price of the brand of vehicles and their types which are likely to be found in the dataset.
 
-![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis4/Plots/heatmap-price-brand-vehicleType.png "Logo Title Text 1")
+![alt text](Analysis4/Plots/heatmap-price-brand-vehicleType.png "Logo Title Text 1")
 ***
-### Analysis 5 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Analysis5.py](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis5/Analysis5.py)&emsp;[Analysis5.ipynb](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis5/Analysis5.ipynb)&emsp;[Plots](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/Analysis5/Plots)
+### Analysis 5 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Analysis5.py](Analysis5/Analysis5.py)&emsp;[Analysis5.ipynb](Analysis5/Analysis5.ipynb)&emsp;[Plots](Analysis5/Plots)
 
 + This analysis gives you the distribution of the total no of days a partiular vehicle has been online for sale before it was purchased. 
 + This is a **dynamic analysis** and can be applied to **any vehicle** by specifying the brand of choice as argument to the python script.
 + To run this file on your terminal type: __*Analysis5.py 'brand'*__  
 + where **'brand'** is the choice of brand vehicle you would like to see analysis about from the column **'brand'** in the dataset.
 
-![alt text](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis5/Plots/vehicletype-NoOfDaysOnline.png "Logo Title Text 1")
+![alt text](Analysis5/Plots/vehicletype-NoOfDaysOnline.png "Logo Title Text 1")
 ***
 ### Conclusion
 __*Analysis 1*__
