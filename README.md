@@ -3,7 +3,7 @@
   + The dataset is taken from **kaggle** and contains details of the **used cars in germany** which are on sale on **ebay**.
   + The dataset is not clean and hence a lot of data cleaning is carried out. For e.g. prices where too high which are      replaced by the median and outliers are removed accordingly. 
   + Also vehicles whose registration year was **_greater than 2016_ and _less than 1890_** were removed from the dataset as this data is inconsistense and would yield incorrect results.
-  + The dataset is cleaned and stored in a **CleanData** folder which contains the entire cleaned dataset named as **[cleaned_autos.csv](CleanData/CleanedDataSet)** and another folder named **[DataForAnalysis](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/CleanData/DataForAnalysis)** containing files structures containing subsets of the cleaned dataset based on brand of the vehicles and vehicle types.  
+  + The dataset is cleaned and stored in a **CleanData** folder which contains the entire cleaned dataset named as **[cleaned_autos.csv](CleanData/CleanedDataSet)** and another folder named **[DataForAnalysis](CleanData/DataForAnalysis)** containing files structures containing subsets of the cleaned dataset based on brand of the vehicles and vehicle types.  
   
 ### Sample Dataset
 dateCrawled | name | seller | offerType | price | abtest | vehicleType | yearOfRegistration | gearbox | powerPS | model | kilometer | monthOfRegistration | fuelType | brand | notRepairedDamage | dateCreated | nrOfPictures | postalCode | lastSeen
@@ -16,10 +16,10 @@ dateCrawled | name | seller | offerType | price | abtest | vehicleType | yearOfR
 __*The main folder contains 9 folders*__.
 
   + Folders from Analysis1 - Analysis5 contain the **iPython Notebook**, **python scripts** along with the **Plots** for that analysis.
-  + Folder for **[shell scripts](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/ShellScripts)** which automate the creation of files structures and splitting the data as mentioned above.
-  + Datapreparation folder contains the **[Datapreparation iPython Script](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/DataPreparation/DataPreparation.py)** for cleaning of data.
-  + CleanData folder contains the clean dataset and subsets of data as per the **[file structure](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/CleanData/DataForAnalysis)**.
-  + RawData folder which contains the **[raw dataset](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/RawData)**.  <br/>
+  + Folder for **[shell scripts](ShellScripts)** which automate the creation of files structures and splitting the data as mentioned above.
+  + Datapreparation folder contains the **[Datapreparation iPython Script](DataPreparation/DataPreparation.py)** for cleaning of data.
+  + CleanData folder contains the clean dataset and subsets of data as per the **[file structure](CleanData/DataForAnalysis)**.
+  + RawData folder which contains the **[raw dataset](RawData)**.  <br/>
  
 ***
 ### Analysis 1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Analysis1.py](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis1/Analysis1.py)&emsp;[Analysis1.ipynb](https://github.com/ajaymache/DataAnalysisUsingPython/blob/master/DAUP-Project/Analysis1/Analysis1.ipynb)&emsp;[Plots](https://github.com/ajaymache/DataAnalysisUsingPython/tree/master/DAUP-Project/Analysis1/Plots)
